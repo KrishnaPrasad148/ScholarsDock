@@ -20,42 +20,75 @@ To run this project, you need the following:
 - LLM Model: Pull the required model using the command: ollama pull qwen2.5
 - **Python Dependencies**:
     - streamlit
-    ollama
-    faiss-cpu
-    sentence-transformers
-    langchain-text-splitters
-    pypdf
-    python-docx
+    - ollama
+    - faiss-cpu
+    - sentence-transformers
+    - langchain-text-splitters
+    - pypdf
+    - python-docx
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
+<img width="806" height="220" alt="System Arc" src="https://github.com/user-attachments/assets/564369a4-f546-4fb3-8096-02062f3fec2f" />
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
 
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+#### Output1 - Home Page
+<img width="1163" height="749" alt="home page" src="https://github.com/user-attachments/assets/6a420331-f8e9-4af0-ae8a-4f579a0ef2a6" />
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+#### Output2 - Document only Answer
+<img width="1658" height="676" alt="doc-only" src="https://github.com/user-attachments/assets/b1e876d8-fcbb-48e8-94c9-50cd53e6d3a9" />
+
+
+#### Output3 - Idea generation + Document Analysis
+<img width="1268" height="575" alt="idea+doc" src="https://github.com/user-attachments/assets/3fd87a00-dd33-4810-b9b6-12ea544fbdf7" />
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+### Performance Results
+
+#### Accuracy
+- Responses were highly relevant to the uploaded documents.
+- Hallucinations were minimized due to RAG architecture.
+- 
+#### Efficiency
+- Fast similarity search using FAISS.
+- Low latency response generation on local machines.
+
+#### Scalability
+- Successfully handled multiple documents.
+- Performance scaled with available hardware resources.
+
+#### Privacy
+- All data remained on the local system.
+- No external data transmission.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1. K. Suryavanshi, N. Thikekar, R. Pawar and S. Ashtekar, "Implementation of RAG Based Question-Answering Application," 2025 International Conference on Data Science and Business Systems (ICDSBS), Chennai, India, 2025.
+
+2. V. Kamra, L. Gupta, D. Arora and A. K. Yadav, "Enhancing Document Retrieval Using AI and Graph-Based RAG Techniques," 2024 5th International Conference on Communication, Computing & Industry 6.0 (C2I6), Bengaluru, India, 2024.
+
+3. S. Vakayil, D. S. Juliet, A. J and S. Vakayil, "RAG-Based LLM Chatbot Using Llama-2," 2024 7th International Conference on Devices, Circuits and Systems (ICDCS), Coimbatore, India, 2024.
+
+4. P. Joshi, A. Gupta, P. Kumar and M. Sisodia, "Robust Multi Model RAG Pipeline For Documents Containing Text, Table & Images," 2024 3rd International Conference on Applied Artificial Intelligence and Computing (ICAAIC), Salem, India, 2024.
+
+5. B. Saha, U. Saha and M. Zubair Malik, "QuIM-RAG: Advancing Retrieval-Augmented Generation With Inverted Question Matching for Enhanced QA Performance," in IEEE Access, vol. 12.
+
+6. K. Sawarkar, A. Mangal and S. R. Solanki, "Blended RAG: Improving RAG (Retriever-Augmented Generation) Accuracy with Semantic Search and Hybrid Query-Based Retrievers," 2024 IEEE 7th International Conference on Multimedia Information Processing and Retrieval (MIPR), San Jose, CA, USA.
+
+7. Tufino, Eugenio. “NotebookLM: An LLM with RAG for active learning and collaborative tutoring.”
+
+8. R. Patil, A. Nikam, T. Lichade, R. Patel, D. Maheshwari and A. Rajguru, "Intelligent PDF Query System for Document Analysis," 2025 International Conference on Cognitive Computing in Engineering, Communications, Sciences and Biomedical Health Informatics (IC3ECSBHI), Greater Noida, India, 2025.
+
+9. V. Perov and V. Golovkov, "Ethics Documents in the Field of AI. Concepts, Achievements and Problems," 2024 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT), Yekaterinburg, Russian Federation, 2024
+
+10. R. K, P. Gupta, G. Suthar, K. S. Sidhu, R. Sarkar and P. Satyanarayana, "Natural Language Processing for AI-Powered Legal Document Analysis," 2025 International Conference on Computing Technologies & Data Communication (ICCTDC), HASSAN, India, 2025
+
+11. A. Ramprasad and P. Sivakumar, "Context-Aware Summarization for PDF Documents using Large Language Models," 2024 International Conference on Expert Clouds and Applications (ICOECA), Bengaluru, India, 2024
 
 
 
