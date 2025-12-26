@@ -68,27 +68,27 @@ To run this project, you need the following:
 - No external data transmission.
 
 ## Articles published / References
-1. K. Suryavanshi, N. Thikekar, R. Pawar and S. Ashtekar, "Implementation of RAG Based Question-Answering Application," 2025 International Conference on Data Science and Business Systems (ICDSBS), Chennai, India, 2025.
+1) K. Suryavanshi, N. Thikekar, R. Pawar and S. Ashtekar, "Implementation of RAG Based Question-Answering Application," 2025 International Conference on Data Science and Business Systems (ICDSBS), Chennai, India, 2025.
 
-2. V. Kamra, L. Gupta, D. Arora and A. K. Yadav, "Enhancing Document Retrieval Using AI and Graph-Based RAG Techniques," 2024 5th International Conference on Communication, Computing & Industry 6.0 (C2I6), Bengaluru, India, 2024.
+2) V. Kamra, L. Gupta, D. Arora and A. K. Yadav, "Enhancing Document Retrieval Using AI and Graph-Based RAG Techniques," 2024 5th International Conference on Communication, Computing & Industry 6.0 (C2I6), Bengaluru, India, 2024.
 
-3. S. Vakayil, D. S. Juliet, A. J and S. Vakayil, "RAG-Based LLM Chatbot Using Llama-2," 2024 7th International Conference on Devices, Circuits and Systems (ICDCS), Coimbatore, India, 2024.
+3) S. Vakayil, D. S. Juliet, A. J and S. Vakayil, "RAG-Based LLM Chatbot Using Llama-2," 2024 7th International Conference on Devices, Circuits and Systems (ICDCS), Coimbatore, India, 2024.
 
-4. P. Joshi, A. Gupta, P. Kumar and M. Sisodia, "Robust Multi Model RAG Pipeline For Documents Containing Text, Table & Images," 2024 3rd International Conference on Applied Artificial Intelligence and Computing (ICAAIC), Salem, India, 2024.
+4) P. Joshi, A. Gupta, P. Kumar and M. Sisodia, "Robust Multi Model RAG Pipeline For Documents Containing Text, Table & Images," 2024 3rd International Conference on Applied Artificial Intelligence and Computing (ICAAIC), Salem, India, 2024.
 
-5. B. Saha, U. Saha and M. Zubair Malik, "QuIM-RAG: Advancing Retrieval-Augmented Generation With Inverted Question Matching for Enhanced QA Performance," in IEEE Access, vol. 12.
+5) B. Saha, U. Saha and M. Zubair Malik, "QuIM-RAG: Advancing Retrieval-Augmented Generation With Inverted Question Matching for Enhanced QA Performance," in IEEE Access, vol. 12.
 
-6. K. Sawarkar, A. Mangal and S. R. Solanki, "Blended RAG: Improving RAG (Retriever-Augmented Generation) Accuracy with Semantic Search and Hybrid Query-Based Retrievers," 2024 IEEE 7th International Conference on Multimedia Information Processing and Retrieval (MIPR), San Jose, CA, USA.
+6) K. Sawarkar, A. Mangal and S. R. Solanki, "Blended RAG: Improving RAG (Retriever-Augmented Generation) Accuracy with Semantic Search and Hybrid Query-Based Retrievers," 2024 IEEE 7th International Conference on Multimedia Information Processing and Retrieval (MIPR), San Jose, CA, USA.
 
-7. Tufino, Eugenio. “NotebookLM: An LLM with RAG for active learning and collaborative tutoring.”
+7) Tufino, Eugenio. “NotebookLM: An LLM with RAG for active learning and collaborative tutoring.”
 
-8. R. Patil, A. Nikam, T. Lichade, R. Patel, D. Maheshwari and A. Rajguru, "Intelligent PDF Query System for Document Analysis," 2025 International Conference on Cognitive Computing in Engineering, Communications, Sciences and Biomedical Health Informatics (IC3ECSBHI), Greater Noida, India, 2025.
+8) R. Patil, A. Nikam, T. Lichade, R. Patel, D. Maheshwari and A. Rajguru, "Intelligent PDF Query System for Document Analysis," 2025 International Conference on Cognitive Computing in Engineering, Communications, Sciences and Biomedical Health Informatics (IC3ECSBHI), Greater Noida, India, 2025.
 
-9. V. Perov and V. Golovkov, "Ethics Documents in the Field of AI. Concepts, Achievements and Problems," 2024 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT), Yekaterinburg, Russian Federation, 2024
+9) V. Perov and V. Golovkov, "Ethics Documents in the Field of AI. Concepts, Achievements and Problems," 2024 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT), Yekaterinburg, Russian Federation, 2024
 
-10. R. K, P. Gupta, G. Suthar, K. S. Sidhu, R. Sarkar and P. Satyanarayana, "Natural Language Processing for AI-Powered Legal Document Analysis," 2025 International Conference on Computing Technologies & Data Communication (ICCTDC), HASSAN, India, 2025
+10) R. K, P. Gupta, G. Suthar, K. S. Sidhu, R. Sarkar and P. Satyanarayana, "Natural Language Processing for AI-Powered Legal Document Analysis," 2025 International Conference on Computing Technologies & Data Communication (ICCTDC), HASSAN, India, 2025
 
-11. A. Ramprasad and P. Sivakumar, "Context-Aware Summarization for PDF Documents using Large Language Models," 2024 International Conference on Expert Clouds and Applications (ICOECA), Bengaluru, India, 2024
+11) A. Ramprasad and P. Sivakumar, "Context-Aware Summarization for PDF Documents using Large Language Models," 2024 International Conference on Expert Clouds and Applications (ICOECA), Bengaluru, India, 2024
 
 
 
