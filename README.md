@@ -35,15 +35,15 @@ To run this project, you need the following:
 ## Output
 
 
-#### Output1 - Home Page
+### Output1 - Home Page
 <img width="1163" height="749" alt="home page" src="https://github.com/user-attachments/assets/6a420331-f8e9-4af0-ae8a-4f579a0ef2a6" />
 
 
-#### Output2 - Document only Answer
+### Output2 - Document only Answer
 <img width="1658" height="676" alt="doc-only" src="https://github.com/user-attachments/assets/b1e876d8-fcbb-48e8-94c9-50cd53e6d3a9" />
 
 
-#### Output3 - Idea generation + Document Analysis
+### Output3 - Idea generation + Document Analysis
 <img width="1268" height="575" alt="idea+doc" src="https://github.com/user-attachments/assets/3fd87a00-dd33-4810-b9b6-12ea544fbdf7" />
 
 
@@ -54,7 +54,7 @@ To run this project, you need the following:
 #### Accuracy
 - Responses were highly relevant to the uploaded documents.
 - Hallucinations were minimized due to RAG architecture.
-- 
+  
 #### Efficiency
 - Fast similarity search using FAISS.
 - Low latency response generation on local machines.
