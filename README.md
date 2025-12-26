@@ -1,28 +1,31 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## ScholarsDock
+A local-only, privacy-focused RAG (Retrieval-Augmented Generation) assistant that enables secure interaction with documents using Streamlit, Ollama, and FAISS.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+ScholarsDock is designed to provide a secure and efficient way to query and interact with various document formats completely offline. By leveraging the power of local LLMs via Ollama and efficient vector search with FAISS, it ensures that your sensitive data never leaves your machine. Users can upload PDFs, DOCX, or TXT files and ask questions to get accurate, context-aware responses, making it an ideal tool for researchers, students, and professionals handling private documents.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- *Local Execution*: Runs entirely on your local machine with no external API calls, ensuring maximum privacy.
+- *Document Support*: Seamlessly processes PDF, DOCX, and TXT files.
+- *Context-Aware Answers*: Uses RAG (Retrieval-Augmented Generation) to provide accurate answers based on document content.
+- *Source Citations*: Every response includes references to the specific source documents and text chunks.
+- *Strict Mode*: Toggleable option to force the AI to answer only based on the provided documents.
+- *Persistent Storage*: Vector embeddings are saved locally, so you don't have to re-process documents every time.
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+To run this project, you need the following:
+
+- Python 3.10+ installed on your system.
+- Ollama: You must have Ollama installed and running.
+- LLM Model: Pull the required model using the command: ollama pull qwen2.5
+- Python Dependencies:
+    streamlit
+    ollama
+    faiss-cpu
+    sentence-transformers
+    langchain-text-splitters
+    pypdf
+    python-docx
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
